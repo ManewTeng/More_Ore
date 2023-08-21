@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "more_blocks:spuer_diamond_block"
+    },
+    "title": {
+      "translate": "advancements.jin_ru_kuang_wu_shi_jie.title"
+    },
+    "description": {
+      "translate": "advancements.jin_ru_kuang_wu_shi_jie.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "jin_ru_kuang_wu_shi_jie": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "more_blocks:ore_world"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 500
+  },
+  "parent": "more_blocks:huo_de_chao_ji_zuan_shi"
+}

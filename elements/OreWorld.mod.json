@@ -1,0 +1,47 @@
+{
+  "_fv": 43,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:OREwor"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:SilverOre"
+    },
+    "fluidBlock": {
+      "value": "Blocks.BUBBLE_COLUMN"
+    },
+    "airColor": {
+      "value": -13421569,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:SpuerDiamond"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 5,
+    "portalSound": {
+      "value": "ambient.basalt_deltas.mood"
+    },
+    "enableIgniter": true,
+    "igniterName": "矿物世界钥匙",
+    "igniterTab": {
+      "value": "CUSTOM:Moreblockns"
+    },
+    "texture": "oreworld_key",
+    "portalTexture": "diamond_portal",
+    "enablePortal": true
+  }
+}

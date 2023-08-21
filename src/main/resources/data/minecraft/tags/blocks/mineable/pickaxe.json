@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "more_blocks:spuer_diamond_block",
+    "more_blocks:spuer_diamond_ore",
+    "more_blocks:silver_ore"
+  ]
+}

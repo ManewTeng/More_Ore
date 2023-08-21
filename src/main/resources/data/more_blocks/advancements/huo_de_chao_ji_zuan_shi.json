@@ -1,0 +1,39 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "more_blocks:spuerdiamonds"
+    },
+    "title": {
+      "translate": "advancements.huo_de_chao_ji_zuan_shi.title"
+    },
+    "description": {
+      "translate": "advancements.huo_de_chao_ji_zuan_shi.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "huo_de_chao_ji_zuan_shi": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "more_blocks:spuerdiamonds"
+            ],
+            "count": {
+              "min": 1,
+              "max": 114514
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1000
+  }
+}

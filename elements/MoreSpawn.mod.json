@@ -1,0 +1,12 @@
+{
+  "_fv": 43,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "more矿物生成",
+    "description": "没做",
+    "category": "SPAWNING",
+    "defaultValueLogic": true,
+    "defaultValueNumber": 0
+  }
+}

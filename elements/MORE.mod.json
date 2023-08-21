@@ -1,0 +1,33 @@
+{
+  "_fv": 43,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "ARMORER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "CUSTOM:Spuerdiamonds"
+            },
+            "countPrice1": 21,
+            "price2": {
+              "value": "CUSTOM:Spuerdiamondaxe"
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:SpuerDiamondpickaxe"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 50,
+            "xp": 20,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

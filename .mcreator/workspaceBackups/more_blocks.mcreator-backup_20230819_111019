@@ -1,0 +1,444 @@
+{
+  "mod_elements": [
+    {
+      "name": "Nevergiveyouup",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nevergiveyouup",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moreblocks/item/NevergiveyouupItem.java",
+          "src/main/resources/assets/more_blocks/models/item/nevergiveyouup.json"
+        ]
+      }
+    },
+    {
+      "name": "Moreblocks",
+      "type": "command",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moreblocks",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moreblocks/command/MoreblocksCommand.java"
+        ]
+      }
+    },
+    {
+      "name": "SpuerDiamond",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spuer_diamond_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/more_blocks/models/item/spuer_diamond_block.json",
+          "src/main/resources/assets/more_blocks/models/block/spuer_diamond_block.json",
+          "src/main/java/net/mcreator/moreblocks/block/SpuerDiamondBlock.java",
+          "src/main/resources/assets/more_blocks/blockstates/spuer_diamond_block.json"
+        ]
+      }
+    },
+    {
+      "name": "Spuerdiamonds",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spuerdiamonds",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moreblocks/item/SpuerdiamondsItem.java",
+          "src/main/resources/assets/more_blocks/models/item/spuerdiamonds.json"
+        ]
+      }
+    },
+    {
+      "name": "SD",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sd",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_blocks/recipes/sd.json"
+        ]
+      }
+    },
+    {
+      "name": "Spuerdiamondaxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spuerdiamondaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moreblocks/item/SpuerdiamondaxeItem.java",
+          "src/main/resources/assets/more_blocks/models/item/spuerdiamondaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "SDAxe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sd_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_blocks/recipes/sd_axe.json"
+        ]
+      }
+    },
+    {
+      "name": "Moreblockns",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moreblockns",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "SpuerDiamondpickaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spuer_diamondpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moreblocks/item/SpuerDiamondpickaxeItem.java",
+          "src/main/resources/assets/more_blocks/models/item/spuer_diamondpickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "SpuerDiamondShovel",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spuer_diamond_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moreblocks/item/SpuerDiamondShovelItem.java",
+          "src/main/resources/assets/more_blocks/models/item/spuer_diamond_shovel.json"
+        ]
+      }
+    },
+    {
+      "name": "SDAxe2",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sd_axe_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_blocks/recipes/sd_axe_2.json"
+        ]
+      }
+    },
+    {
+      "name": "SDPickAxe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sd_pick_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_blocks/recipes/sd_pick_axe.json"
+        ]
+      }
+    },
+    {
+      "name": "SDS",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sds",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_blocks/recipes/sds.json"
+        ]
+      }
+    },
+    {
+      "name": "HuoDeChaoJiZuanShi",
+      "type": "achievement",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huo_de_chao_ji_zuan_shi",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_blocks/advancements/huo_de_chao_ji_zuan_shi.json"
+        ]
+      }
+    },
+    {
+      "name": "Speed",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speed",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moreblocks/enchantment/SpeedEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "MORE",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "more",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "MoreCd",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "more_cd",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moreblocks/network/MoreCdMessage.java"
+        ]
+      }
+    },
+    {
+      "name": "MoreSpawn",
+      "type": "gamerule",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "more_spawn",
+      "metadata": {
+        "files": [],
+        "type": "logic"
+      }
+    },
+    {
+      "name": "SpuerDiamondOre",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spuer_diamond_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/more_blocks/models/block/spuer_diamond_ore.json",
+          "src/main/resources/assets/more_blocks/blockstates/spuer_diamond_ore.json",
+          "src/main/java/net/mcreator/moreblocks/block/SpuerDiamondOreBlock.java",
+          "src/main/resources/data/more_blocks/forge/biome_modifier/spuer_diamond_ore_biome_modifier.json",
+          "src/main/resources/assets/more_blocks/models/item/spuer_diamond_ore.json",
+          "src/main/java/net/mcreator/moreblocks/world/features/ores/SpuerDiamondOreFeature.java"
+        ]
+      }
+    },
+    {
+      "name": "SilverOre",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moreblocks/block/SilverOreBlock.java",
+          "src/main/java/net/mcreator/moreblocks/world/features/ores/SilverOreFeature.java",
+          "src/main/resources/assets/more_blocks/models/item/silver_ore.json",
+          "src/main/resources/assets/more_blocks/blockstates/silver_ore.json",
+          "src/main/resources/data/more_blocks/forge/biome_modifier/silver_ore_biome_modifier.json",
+          "src/main/resources/assets/more_blocks/models/block/silver_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "Silver",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moreblocks/item/SilverItem.java",
+          "src/main/resources/assets/more_blocks/models/item/silver.json"
+        ]
+      }
+    },
+    {
+      "name": "SpuerDiamondSh",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spuer_diamond_sh",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_blocks/recipes/spuer_diamond_sh.json"
+        ]
+      }
+    },
+    {
+      "name": "SpuerDamondArmor",
+      "type": "armor",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spuer_damond_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/more_blocks/models/item/spuer_damond_armor_helmet.json",
+          "src/main/resources/assets/more_blocks/models/item/spuer_damond_armor_boots.json",
+          "src/main/resources/assets/more_blocks/models/item/spuer_damond_armor_leggings.json",
+          "src/main/java/net/mcreator/moreblocks/item/SpuerDamondArmorItem.java",
+          "src/main/resources/assets/more_blocks/models/item/spuer_damond_armor_chestplate.json"
+        ]
+      }
+    },
+    {
+      "name": "OREwor",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "or_ewor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moreblocks/world/biome/OREworBiome.java"
+        ]
+      }
+    },
+    {
+      "name": "OreWorld",
+      "type": "dimension",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ore_world",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/more_blocks/models/block/ore_world_portal_ew.json",
+          "src/main/java/net/mcreator/moreblocks/world/teleporter/OreWorldPortalShape.java",
+          "src/main/java/net/mcreator/moreblocks/block/OreWorldPortalBlock.java",
+          "src/main/java/net/mcreator/moreblocks/item/OreWorldItem.java",
+          "src/main/resources/data/more_blocks/dimension_type/ore_world.json",
+          "src/main/resources/assets/more_blocks/blockstates/ore_world_portal.json",
+          "src/main/java/net/mcreator/moreblocks/world/dimension/OreWorldDimension.java",
+          "src/main/resources/assets/more_blocks/models/block/ore_world_portal_ns.json",
+          "src/main/resources/assets/more_blocks/models/item/ore_world.json",
+          "src/main/java/net/mcreator/moreblocks/world/teleporter/OreWorldTeleporter.java",
+          "src/main/resources/data/more_blocks/dimension/ore_world.json"
+        ]
+      }
+    },
+    {
+      "name": "JinRuKuangWuShiJie",
+      "type": "achievement",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jin_ru_kuang_wu_shi_jie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_blocks/advancements/jin_ru_kuang_wu_shi_jie.json"
+        ]
+      }
+    },
+    {
+      "name": "Key",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_blocks/recipes/key.json"
+        ]
+      }
+    },
+    {
+      "name": "SpuerDiamondSw",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spuer_diamond_sw",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/more_blocks/models/item/spuer_diamond_sw.json",
+          "src/main/java/net/mcreator/moreblocks/item/SpuerDiamondSwItem.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.more_blocks.ore_world": "矿物世界钥匙",
+      "item.more_blocks.spuer_damond_armor_boots": "超级钻石靴子",
+      "key.more_blocks.more_cd": "More Cd",
+      "item.more_blocks.spuer_diamond_sw": "超级钻石剑",
+      "gamerule.moreSpawn": "more矿物生成",
+      "advancements.jin_ru_kuang_wu_shi_jie.title": "欢迎来到矿物世界",
+      "block.more_blocks.silver_ore": "银矿",
+      "item.more_blocks.spuerdiamonds": "超级钻石",
+      "biome.more_blocks.or_ewor": "OR Ewor",
+      "advancements.jin_ru_kuang_wu_shi_jie.descr": "进入矿物世界",
+      "item.more_blocks.spuer_diamondpickaxe": "超级钻石镐子",
+      "itemGroup.tabmoreblockns": "MoreOre",
+      "item.more_blocks.spuer_damond_armor_chestplate": "超级钻石胸甲",
+      "gamerule.moreSpawn.description": "没做",
+      "item.more_blocks.silver": "银",
+      "item.more_blocks.nevergiveyouup": "Nevergiveyouup",
+      "advancements.huo_de_chao_ji_zuan_shi.descr": "获得超级钻石",
+      "item.more_blocks.spuerdiamondaxe": "超级钻石斧子",
+      "item.more_blocks.spuer_damond_armor_leggings": "超级钻石护腿",
+      "item.more_blocks.nevergiveyouup.desc": "give you up",
+      "item.more_blocks.spuer_damond_armor_helmet": "超级钻石头盔",
+      "block.more_blocks.spuer_diamond_ore": "Spuer Diamond Ore",
+      "item.more_blocks.spuer_diamond_shovel": "超级钻石铲子",
+      "advancements.huo_de_chao_ji_zuan_shi.title": "获得超级钻石",
+      "enchantment.more_blocks.speed": "超级速度",
+      "block.more_blocks.spuer_diamond_block": "Spuer Diamond Block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "more_blocks",
+    "modName": "more_blocks",
+    "version": "1.0.0",
+    "author": "maten, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.moreblocks",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300224119
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 43,
+  "_type": "enchantment",
+  "definition": {
+    "name": "超级速度",
+    "type": "DIGGER",
+    "rarity": "RARE",
+    "minLevel": 40,
+    "maxLevel": 40,
+    "damageModifier": 0,
+    "compatibleEnchantments": [],
+    "excludeEnchantments": false,
+    "compatibleItems": [
+      {
+        "value": "CUSTOM:SpuerDiamondpickaxe"
+      },
+      {
+        "value": "CUSTOM:Spuerdiamondaxe"
+      },
+      {
+        "value": "CUSTOM:SpuerDiamondShovel"
+      }
+    ],
+    "excludeItems": false,
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

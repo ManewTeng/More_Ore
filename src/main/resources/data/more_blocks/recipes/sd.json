@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_blocks:spuer_diamond_block"
+    }
+  ],
+  "result": {
+    "item": "more_blocks:spuerdiamonds",
+    "count": 3
+  }
+}

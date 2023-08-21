@@ -1,0 +1,30 @@
+{
+  "group": "saxe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "more_blocks:spuerdiamonds"
+    },
+    "1": {
+      "item": "more_blocks:spuerdiamonds"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "more_blocks:spuerdiamonds"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "more_blocks:spuerdiamondaxe",
+    "count": 1
+  }
+}

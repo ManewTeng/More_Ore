@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_blocks:spuerdiamonds"
+    },
+    {
+      "item": "more_blocks:spuerdiamonds"
+    }
+  ],
+  "result": {
+    "item": "more_blocks:ore_world",
+    "count": 1
+  }
+}

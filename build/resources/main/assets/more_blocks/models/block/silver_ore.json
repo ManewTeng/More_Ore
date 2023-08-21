@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_blocks:blocks/silver_ore",
+    "up": "more_blocks:blocks/silver_ore",
+    "north": "more_blocks:blocks/silver_ore",
+    "east": "more_blocks:blocks/silver_ore",
+    "south": "more_blocks:blocks/silver_ore",
+    "west": "more_blocks:blocks/silver_ore",
+    "particle": "more_blocks:blocks/silver_ore"
+  },
+  "render_type": "solid"
+}

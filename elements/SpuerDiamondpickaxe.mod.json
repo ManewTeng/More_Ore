@@ -1,0 +1,36 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamond_pickaxe",
+    "customModelName": "Normal",
+    "name": "超级钻石镐子",
+    "specialInfo": [
+      "speed!",
+      "speed!",
+      "speed!",
+      "speed!"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Moreblockns"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 8,
+    "efficiency": 50.0,
+    "attackSpeed": 3.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Spuerdiamonds"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

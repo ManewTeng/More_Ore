@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "more_blocks:spuerdiamonds"
+    },
+    "1": {
+      "item": "more_blocks:spuerdiamonds"
+    },
+    "2": {
+      "item": "more_blocks:spuerdiamonds"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "more_blocks:spuer_diamondpickaxe",
+    "count": 1
+  }
+}

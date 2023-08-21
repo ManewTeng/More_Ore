@@ -1,0 +1,19 @@
+{
+  "_fv": 43,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Nevergiveyouup",
+    "texture": "never",
+    "description": "give you up",
+    "creativeTab": {
+      "value": "REDSTONE"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "ambient.underwater.loop.additions.rare"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

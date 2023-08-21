@@ -1,0 +1,70 @@
+{
+  "_fv": 43,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "diamond_helmet",
+    "enableBody": true,
+    "textureBody": "diamond_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "diamond_leggings",
+    "enableBoots": true,
+    "textureBoots": "diamond_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Moreblockns"
+    },
+    "armorTextureFile": "diamond_",
+    "helmetName": "超级钻石头盔",
+    "bodyName": "超级钻石胸甲",
+    "leggingsName": "超级钻石护腿",
+    "bootsName": "超级钻石靴子",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 40,
+    "damageValueHelmet": 4,
+    "damageValueBody": 8,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 9,
+    "enchantability": 9,
+    "toughness": 6.0,
+    "knockbackResistance": 0.5,
+    "equipSound": {
+      "value": "ambient.cave"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Spuerdiamonds"
+      }
+    ]
+  }
+}

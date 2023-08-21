@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_blocks:blocks/diamond_ore",
+    "up": "more_blocks:blocks/diamond_ore",
+    "north": "more_blocks:blocks/diamond_ore",
+    "east": "more_blocks:blocks/diamond_ore",
+    "south": "more_blocks:blocks/diamond_ore",
+    "west": "more_blocks:blocks/diamond_ore",
+    "particle": "more_blocks:blocks/diamond_ore"
+  },
+  "render_type": "solid"
+}

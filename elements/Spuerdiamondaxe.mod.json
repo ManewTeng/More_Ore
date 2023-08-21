@@ -1,0 +1,33 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamond_axe",
+    "customModelName": "Normal",
+    "name": "超级钻石斧子",
+    "specialInfo": [
+      "spuerAXE"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Moreblockns"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 10,
+    "efficiency": 10.0,
+    "attackSpeed": 1.5,
+    "enchantability": 2,
+    "damageVsEntity": 9.0,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Spuerdiamonds"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
