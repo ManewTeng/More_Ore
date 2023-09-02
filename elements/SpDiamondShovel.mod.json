@@ -1,0 +1,31 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamond_hoe",
+    "customModelName": "Normal",
+    "name": "超级钻石锄头",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Moreblockns"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 6,
+    "efficiency": 9.0,
+    "attackSpeed": 5.0,
+    "enchantability": 3,
+    "damageVsEntity": 5.0,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Spuerdiamonds"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -30,6 +30,7 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.moreblocks.init.MoreBlocksModTabs;
+import net.mcreator.moreblocks.init.MoreBlocksModSounds;
 import net.mcreator.moreblocks.init.MoreBlocksModPaintings;
 import net.mcreator.moreblocks.init.MoreBlocksModItems;
 import net.mcreator.moreblocks.init.MoreBlocksModFeatures;
@@ -55,7 +56,7 @@ public class MoreBlocksMod {
 		MinecraftForge.EVENT_BUS.register(this);
 		MoreBlocksModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-
+		MoreBlocksModSounds.REGISTRY.register(bus);
 		MoreBlocksModBlocks.REGISTRY.register(bus);
 		MoreBlocksModItems.REGISTRY.register(bus);
 

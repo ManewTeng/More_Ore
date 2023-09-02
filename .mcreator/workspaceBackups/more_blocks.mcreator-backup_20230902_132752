@@ -385,10 +385,56 @@
           "src/main/java/net/mcreator/moreblocks/item/SpuerDiamondSwItem.java"
         ]
       }
+    },
+    {
+      "name": "MoreOreMaker",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "more_ore_maker",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "SpDiamondShovel",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sp_diamond_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/more_blocks/models/item/sp_diamond_shovel.json",
+          "src/main/java/net/mcreator/moreblocks/item/SpDiamondShovelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Jjuiji",
+      "type": "achievement",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jjuiji",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_blocks/advancements/jjuiji.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "never-gonna-give-you-up",
+      "files": [
+        "never_gonna_give_you_up"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
   "language_map": {
     "en_us": {
       "item.more_blocks.ore_world": "矿物世界钥匙",
@@ -404,7 +450,9 @@
       "item.more_blocks.spuer_diamondpickaxe": "超级钻石镐子",
       "itemGroup.tabmoreblockns": "MoreOre",
       "item.more_blocks.spuer_damond_armor_chestplate": "超级钻石胸甲",
+      "subtitles.never-gonna-give-you-up": "",
       "gamerule.moreSpawn.description": "没做",
+      "item.more_blocks.sp_diamond_shovel": "超级钻石锄头",
       "item.more_blocks.silver": "银",
       "item.more_blocks.nevergiveyouup": "Nevergiveyouup",
       "advancements.huo_de_chao_ji_zuan_shi.descr": "获得超级钻石",
@@ -412,11 +460,13 @@
       "item.more_blocks.spuer_damond_armor_leggings": "超级钻石护腿",
       "item.more_blocks.nevergiveyouup.desc": "give you up",
       "item.more_blocks.spuer_damond_armor_helmet": "超级钻石头盔",
-      "block.more_blocks.spuer_diamond_ore": "Spuer Diamond Ore",
+      "block.more_blocks.spuer_diamond_ore": "超级钻石块",
+      "advancements.jjuiji.title": "究极奉献",
       "item.more_blocks.spuer_diamond_shovel": "超级钻石铲子",
       "advancements.huo_de_chao_ji_zuan_shi.title": "获得超级钻石",
       "enchantment.more_blocks.speed": "超级速度",
-      "block.more_blocks.spuer_diamond_block": "Spuer Diamond Block"
+      "block.more_blocks.spuer_diamond_block": "Spuer Diamond Block",
+      "advancements.jjuiji.descr": "获得超级钻石锄头"
     }
   },
   "foldersRoot": {

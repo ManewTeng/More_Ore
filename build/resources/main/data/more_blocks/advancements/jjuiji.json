@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "more_blocks:sp_diamond_shovel"
+    },
+    "title": {
+      "translate": "advancements.jjuiji.title"
+    },
+    "description": {
+      "translate": "advancements.jjuiji.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "jjuiji": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "more_blocks:sp_diamond_shovel"
+            ],
+            "count": {
+              "min": 1,
+              "max": 9999999999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5000
+  },
+  "parent": "more_blocks:huo_de_chao_ji_zuan_shi"
+}

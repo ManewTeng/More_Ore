@@ -12,7 +12,9 @@
   "item.more_blocks.spuer_diamondpickaxe": "超级钻石镐子",
   "itemGroup.tabmoreblockns": "MoreOre",
   "item.more_blocks.spuer_damond_armor_chestplate": "超级钻石胸甲",
+  "subtitles.never-gonna-give-you-up": "",
   "gamerule.moreSpawn.description": "没做",
+  "item.more_blocks.sp_diamond_shovel": "超级钻石锄头",
   "item.more_blocks.silver": "银",
   "item.more_blocks.nevergiveyouup": "Nevergiveyouup",
   "advancements.huo_de_chao_ji_zuan_shi.descr": "获得超级钻石",
@@ -21,8 +23,10 @@
   "item.more_blocks.nevergiveyouup.desc": "give you up",
   "item.more_blocks.spuer_damond_armor_helmet": "超级钻石头盔",
   "block.more_blocks.spuer_diamond_ore": "超级钻石块",
+  "advancements.jjuiji.title": "究极奉献",
   "item.more_blocks.spuer_diamond_shovel": "超级钻石铲子",
   "advancements.huo_de_chao_ji_zuan_shi.title": "获得超级钻石",
   "enchantment.more_blocks.speed": "超级速度",
-  "block.more_blocks.spuer_diamond_block": "Spuer Diamond Block"
+  "block.more_blocks.spuer_diamond_block": "Spuer Diamond Block",
+  "advancements.jjuiji.descr": "获得超级钻石锄头"
 }

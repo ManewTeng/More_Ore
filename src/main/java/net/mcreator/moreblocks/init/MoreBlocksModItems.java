@@ -19,6 +19,7 @@ import net.mcreator.moreblocks.item.SpuerDiamondpickaxeItem;
 import net.mcreator.moreblocks.item.SpuerDiamondSwItem;
 import net.mcreator.moreblocks.item.SpuerDiamondShovelItem;
 import net.mcreator.moreblocks.item.SpuerDamondArmorItem;
+import net.mcreator.moreblocks.item.SpDiamondShovelItem;
 import net.mcreator.moreblocks.item.SilverItem;
 import net.mcreator.moreblocks.item.OreWorldItem;
 import net.mcreator.moreblocks.item.NevergiveyouupItem;
@@ -41,6 +42,7 @@ public class MoreBlocksModItems {
 	public static final RegistryObject<Item> SPUER_DAMOND_ARMOR_BOOTS = REGISTRY.register("spuer_damond_armor_boots", () -> new SpuerDamondArmorItem.Boots());
 	public static final RegistryObject<Item> ORE_WORLD = REGISTRY.register("ore_world", () -> new OreWorldItem());
 	public static final RegistryObject<Item> SPUER_DIAMOND_SW = REGISTRY.register("spuer_diamond_sw", () -> new SpuerDiamondSwItem());
+	public static final RegistryObject<Item> SP_DIAMOND_SHOVEL = REGISTRY.register("sp_diamond_shovel", () -> new SpDiamondShovelItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

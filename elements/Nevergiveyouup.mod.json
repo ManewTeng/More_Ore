@@ -6,12 +6,12 @@
     "texture": "never",
     "description": "give you up",
     "creativeTab": {
-      "value": "REDSTONE"
+      "value": "CUSTOM:Moreblockns"
     },
     "specialInfo": [],
-    "hasGlow": false,
+    "hasGlow": true,
     "music": {
-      "value": "ambient.underwater.loop.additions.rare"
+      "value": "CUSTOM:never-gonna-give-you-up"
     },
     "lengthInTicks": 100,
     "analogOutput": 0
